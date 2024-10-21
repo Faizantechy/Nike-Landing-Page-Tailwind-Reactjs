@@ -9,7 +9,7 @@ const Footer = () => {
           className="w-[80px]"
         />
 
-        <p className='text-lg font-bold text-white'>@Copyright: All Rights Reserved:Nike</p>
+        <p className='text-lg font-bold text-white text-wrap mt-5'>@Copyright: All Rights Reserved:Nike</p>
 
 
     </div>
